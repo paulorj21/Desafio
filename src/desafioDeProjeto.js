@@ -1,5 +1,5 @@
-let nome = "Alucard"
-let xp = 100000
+let nome = ""
+let xp = 0
 let nivel = ""
 
 if(xp <= 1000){
